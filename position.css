@@ -1,0 +1,63 @@
+.box{
+    width : 100px ; height: 100px;
+    background-color: rgb(0, 184, 80);
+    position: relataive;
+    top: 20px;
+    left: 10px;
+   
+}
+/* .box1{
+    width : 100px ; height: 100px;
+    background-color: rgb(0, 89, 184);
+    position: absolute;
+    left: 50px;
+    top: 50px;
+} */
+
+
+.parant{
+    width: 100px;height: 100px;
+    
+    background-color: rgb(225, 133, 133);
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+.son1{background-color: blue;
+text-align: center;
+position: relative;
+top: 5px;
+}
+.son2{background-color: rgb(8, 255, 255);
+    position: absolute;
+    
+    top: 30px;
+    right: 10px;
+    bottom: 25px;
+    
+}
+.box3{
+    position: ;
+    top: 100px;
+    left: 250px;
+    right: 250px;
+    bottom: 100px;
+    background-color: rgb(209, 1, 1);
+   
+    color: rgb(222, 209, 209);
+}
+
+.box2{
+    position: relative ;
+    
+    background-color: rgb(6, 176, 255);
+    color: rgb(18, 10, 10);
+}
+.box4{
+    position: sticky;
+   width: 450px;
+    background-color: blueviolet;
+     top: 50px;
+    right: 50px;
+    left: 50 px;
+}

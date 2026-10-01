@@ -1,0 +1,9 @@
+*{margin: 1%;
+    background-color: rgb(35, 39, 30);}
+
+#boxid{color: rgb(239, 0, 0); background-color: darkgray;}
+
+h2,h3{color:  rgb(66, 16, 116);background-color: rgb(55, 241, 8);} 
+
+.classid{color: rgba(26, 10, 10, 0.777);background-color: hsl(54, 100%, 50%);}
+

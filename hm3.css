@@ -1,0 +1,33 @@
+*{background-color: black;}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(246, 251, 251);
+}
+h4{
+    font-size: medium;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(246, 251, 251);
+}
+.dis{
+    background-color: azure;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(21, 34, 34);
+}
+.models{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(246, 251, 251);
+}
+#table{
+    font-size: x-large;
+    ont-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(246, 251, 251);
+
+}
+.bt{
+    color: rgb(246, 251, 251);
+    
